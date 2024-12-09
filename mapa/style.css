@@ -1,0 +1,107 @@
+body {
+    background-color: rgb(10, 54, 10);
+    display: flex;
+    justify-content: center;
+}
+
+* {
+
+
+    margin: 0;
+    padding: 0;
+}
+
+.strona {
+    background-color: white;
+    width: 1000px;
+    height: 1950px;
+}
+
+.glowna {
+    display: flex;
+    justify-content: center;
+
+}
+
+.nawias {
+    background-color: green;
+    width: 800px;
+    height: 79px;
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+
+
+}
+
+.planeta {
+    position: absolute;
+    display: block;
+    margin-right: 550px;
+}
+
+.blok {
+    background-color: white;
+    width: 1000px;
+    height: 11000px;
+}
+
+.text {
+
+    background-color: green;
+    width: 900px;
+    height: 35px;
+}
+
+.content {
+    margin-top: 25px;
+    margin-left: 75px;
+    width: 900px;
+    height: 35px;
+}
+
+.kkkk {
+    margin-left: 100px;
+    display: flex;
+    margin-top: 30px;
+    color: green;
+
+}
+
+.golwka {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    color: green;
+}
+.gift {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 25px;
+    width: 200px;
+    height: 200px;
+}
+p{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.content1 {
+    margin-top: 250px;
+    margin-left: 75px;
+    width: 900px;
+    height: 35px;
+}
+.text1{
+    color: white;
+}
+.autor{
+    color: white;
+    margin-top: 250px;
+    height: 79px;
+    background-color: green;
+    display: flex;
+    justify-content: flex-end;
+}
